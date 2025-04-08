@@ -9,4 +9,4 @@ More explicitly, I will use a GAN to generate images in the style of Monet. The 
 The results will be submitted to the Kaggle competition to see how well the model can create images in the style of Monet.
 
 # Note: 
-## Notebook is large (23.5 MB) and takes a while to load. Please be patient :-). It takes me about 30 seconds for it to show up.
+## Notebook is large (23.5 MB) and takes a while to load. Please be patient :-). It about 30 seconds for me for it to show up.

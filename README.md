@@ -11,4 +11,4 @@ The results will be submitted to the Kaggle competition to see how well the mode
 # Note: 
 ## Notebook is large (23.5 MB) and takes a while to load. Please be patient :-) It takes about 30 seconds for me for it to show up.
 ## I added a PDF version of the notebook that is 10.9MB. Quality isn't as good as the .ipynb file but it might be easier to load.
-## Another Option: Download the Week5Assignment.ipynb and open it in Jupyter notebook.
+## Another Option: Download the Week5Assignment.ipynb file and open it in Jupyter notebook.
